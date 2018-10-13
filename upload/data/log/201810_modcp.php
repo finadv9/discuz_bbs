@@ -1,0 +1,13 @@
+<?PHP exit;?>	1539310455	简理财	2	73.160.123.126	login		0	GET={mod=modcp; action=login; }; POST={};
+<?PHP exit;?>	1539310470	简理财	2	73.160.123.126	home		0	GET={mod=modcp; action=home; }; POST={};
+<?PHP exit;?>	1539310480	简理财	2	73.160.123.126	home		0	GET={mod=modcp; action=home; }; POST={};
+<?PHP exit;?>	1539310488	简理财	2	73.160.123.126	forum	editforum		GET={mod=modcp; action=forum; op=editforum; }; POST={};
+<?PHP exit;?>	1539310488	简理财	2	73.160.123.126	forum	editforum	2	GET={mod=modcp; action=forum; op=editforum; fid=2; }; POST={};
+<?PHP exit;?>	1539310510	简理财	1	73.160.123.126	forum	editforum	2	GET={mod=modcp; action=forum; op=editforum; fid=2; }; POST={};
+<?PHP exit;?>	1539314927	Mooey	1	98.197.151.92	login		2	GET={mod=modcp; fid=2; action=login; }; POST={};
+<?PHP exit;?>	1539314933	Mooey	1	98.197.151.92	thread		2	GET={mod=modcp; fid=2; action=thread; }; POST={};
+<?PHP exit;?>	1539314936	Mooey	1	98.197.151.92	thread	post	2	GET={mod=modcp; action=thread; op=post; fid=2; }; POST={};
+<?PHP exit;?>	1539314939	Mooey	1	98.197.151.92	thread	post	2	GET={mod=modcp; action=thread; op=post; do=search; fid=2; starttime=2018-08-13; endtime=2018-10-12; searchsubmit=true; }; POST={do=search; fid=2; starttime=2018-08-13; endtime=2018-10-12; searchsubmit=true; };
+<?PHP exit;?>	1539314961	Mooey	1	98.197.151.92	thread	thread	2	GET={mod=modcp; action=thread; op=thread; fid=2; }; POST={};
+<?PHP exit;?>	1539401437	admin	1	73.160.123.126	login	post		GET={mod=modcp; action=login; op=post; do=search; searchsubmit=1; users=admin; }; POST={};
+<?PHP exit;?>	1539457234	admin	1	98.197.151.92	login	post		GET={mod=modcp; action=login; op=post; searchsubmit=1; do=search; users=简税; }; POST={};
