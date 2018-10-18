@@ -1,7 +1,7 @@
 <?php if(!defined('IN_DISCUZ')) exit('Access Denied'); hookscriptoutput('viewthread');
 0
-|| checktplrefresh('./template/default/touch/forum/viewthread.htm', './template/default/touch/forum/forumdisplay_fastpost.htm', 1539432963, 'diy', './data/template/1_diy_touch_forum_viewthread.tpl.php', './template/default', 'touch/forum/viewthread')
-|| checktplrefresh('./template/default/touch/forum/viewthread.htm', './template/default/touch/common/seccheck.htm', 1539432963, 'diy', './data/template/1_diy_touch_forum_viewthread.tpl.php', './template/default', 'touch/forum/viewthread')
+|| checktplrefresh('./template/default/touch/forum/viewthread.htm', './template/default/touch/forum/forumdisplay_fastpost.htm', 1539655181, 'diy', './data/template/1_diy_touch_forum_viewthread.tpl.php', './template/default', 'touch/forum/viewthread')
+|| checktplrefresh('./template/default/touch/forum/viewthread.htm', './template/default/touch/common/seccheck.htm', 1539655181, 'diy', './data/template/1_diy_touch_forum_viewthread.tpl.php', './template/default', 'touch/forum/viewthread')
 ;?>
 <?php $threadsort = $threadsorts = null;?><?php include template('common/header'); ?><!-- header start -->
 <header class="header">
